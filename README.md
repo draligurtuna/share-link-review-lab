@@ -58,3 +58,38 @@ These are projects maintained by Ali Gürtuna. They illustrate different reading
 - [MDN: textContent](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent)
 
 Educational interface example; no private Pine code, patient information or account secrets. AI-assisted implementation and documentation prepared for Ali Gürtuna / AGProLabs.
+
+## Concrete resource paths for a link-review exercise
+
+Choose one destination from the projects I maintain, then compare the unmodified public address with your proposed sharing address. Do not invent fragments or query semantics for the linked sites. Keep the page title and reading context with the URL. AI-assisted resource navigation update.
+
+### Market-context guides
+
+Read the market type, source and data-readiness explanation before comparing observations.
+
+- [Global Stock Screening: Currency and Session Checks](https://www.agprolabs.com/insights/global-stock-screening-currencies/)
+- [Gold Screening: Spot, Futures and ETF Differences](https://www.agprolabs.com/insights/gold-screening-spot-futures-etf/)
+- [Oil Screening and Futures Rollover Checks](https://www.agprolabs.com/insights/oil-screening-futures-rollover/)
+- [Use ATR Percent to Compare Screening Volatility](https://www.agprolabs.com/insights/atr-percent-screening-volatility/)
+- [WARMUP and Missing Data in a TradingView Screener](https://www.agprolabs.com/insights/warmup-missing-data-screener/)
+- [From a Screener Shortlist to Chart Review](https://www.agprolabs.com/insights/shortlist-to-chart-review/)
+
+### Health-tool pages
+
+Read inputs, units and limitations on the destination; these links are navigation examples, not personal medical recommendations.
+
+- [Daily calorie calculator — inputs and limitations](https://www.aligurtuna.com/gunluk-kalori-hesaplama-programi/)
+- [BMI calculator — height, weight and units](https://www.aligurtuna.com/vucut-kitle-indeksi-hesaplama-bmi-v-2/)
+- [Growth percentile calculator — age and measurement context](https://www.aligurtuna.com/boy-kilo-persentil-hesaplama/)
+- [Pregnancy calendar — date inputs and explanation](https://www.aligurtuna.com/gebelik-hesaplama-takvimi/)
+
+### Author archives
+
+An author archive is a reading route, not an edition of every work it lists.
+
+- [Yahya Kemal — Şair Arşivi](https://www.babaminsiirdefteri.com/sair/yahya-kemal-beyatli/)
+- [Tevfik Fikret — Şair Arşivi](https://www.babaminsiirdefteri.com/sair/tevfik-fikret/)
+- [Didem Madak — Şair Arşivi](https://www.babaminsiirdefteri.com/sair/didem-madak/)
+- [Âşık Veysel — Şair Arşivi](https://www.babaminsiirdefteri.com/sair/asik-veysel/)
+
+These references do not establish source verification, runtime integration, indexing, clinical accuracy or a trading outcome. The worksheet behavior remains unchanged.
