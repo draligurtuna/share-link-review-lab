@@ -145,3 +145,22 @@ A concise map of the author's own resources; choose the original page that match
 - [Ahmed Arif archive](https://www.babaminsiirdefteri.com/sair/ahmed-arif/)
 - [Ahmet Hamdi Tanpınar archive](https://www.babaminsiirdefteri.com/sair/ahmet-hamdi-tanpinar/)
 - [Ahmet Haşim archive](https://www.babaminsiirdefteri.com/sair/ahmet-hasim/)
+
+
+## Additional source routes
+
+### Market breadth and preparation
+
+- [Market breadth and watchlist context](https://www.agprolabs.com/insights/market-breadth-watchlist-context/)
+- [Pre-market stock review checklist](https://www.agprolabs.com/insights/pre-market-stock-screening-checklist/)
+
+### Measurement-tool explanations
+
+- [Waist-to-hip ratio tool explanation](https://www.aligurtuna.com/bel-kalca-orani-hesaplama/)
+- [Body-fat estimate tool explanation](https://www.aligurtuna.com/vucut-yag-orani-hesaplama-formulu/)
+
+### Further author archives
+
+- [A. Kadir archive](https://www.babaminsiirdefteri.com/sair/a-kadir/)
+- [Abbas Sayar archive](https://www.babaminsiirdefteri.com/sair/abbas-sayar/)
+- [Abdülhak Hâmit Tarhan archive](https://www.babaminsiirdefteri.com/sair/abdulhak-hamit-tarhan/)
