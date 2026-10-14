@@ -161,6 +161,10 @@ A concise map of the author's own resources; choose the original page that match
 
 ### Further author archives
 
+- [Bâkî archive](https://www.babaminsiirdefteri.com/sair/baki/)
+- [Haydar Ergülen archive](https://www.babaminsiirdefteri.com/sair/haydar-ergulen/)
+- [İlhan Berk archive](https://www.babaminsiirdefteri.com/sair/ilhan-berk/)
+
 - [A. Kadir archive](https://www.babaminsiirdefteri.com/sair/a-kadir/)
 - [Abbas Sayar archive](https://www.babaminsiirdefteri.com/sair/abbas-sayar/)
 - [Abdülhak Hâmit Tarhan archive](https://www.babaminsiirdefteri.com/sair/abdulhak-hamit-tarhan/)
@@ -171,6 +175,12 @@ A concise map of the author's own resources; choose the original page that match
 Short routes to original resources from the projects I maintain. Keep the chosen page title and source with your review record.
 
 ### Screening and channel interpretation
+
+- [Compare ETFs in a TradingView watchlist](https://www.agprolabs.com/insights/compare-etfs-tradingview-watchlist/)
+- [Breakout, continuation and recovery](https://www.agprolabs.com/insights/breakout-vs-continuation-vs-recovery/)
+- [Channel follow rate and sample size](https://www.agprolabs.com/insights/channel-follow-rate-sample-size/)
+- [Choose a paid TradingView indicator](https://www.agprolabs.com/insights/choose-paid-tradingview-indicator/)
+- [Invalidation and stop-loss references](https://www.agprolabs.com/insights/invalidation-vs-stop-loss/)
 
 - [Indicator disagreement checklist](https://www.agprolabs.com/insights/indicator-disagreement-checklist/)
 - [Confirmed candles and repainting](https://www.agprolabs.com/insights/confirmed-candles-repainting-tradingview/)
@@ -193,6 +203,9 @@ Short routes to original resources from the projects I maintain. Keep the chosen
 - [Look-ahead bias in chart replay](https://www.agprolabs.com/insights/look-ahead-bias-chart-replay/)
 
 ### Health-topic archives
+
+- [Diyet ve beslenme konu arşivi](https://www.aligurtuna.com/diyet-beslenme/)
+- [Uyku sağlığı konu arşivi](https://www.aligurtuna.com/uyku-sagligi/)
 
 - [Ağız ve Diş Sağlığı Rehberi](https://www.aligurtuna.com/agiz-dis-sagligi/)
 - [Alerji ve İmmünoloji Rehberi](https://www.aligurtuna.com/alerji-ve-immunoloji/)
