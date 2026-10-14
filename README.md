@@ -161,6 +161,10 @@ A concise map of the author's own resources; choose the original page that match
 
 ### Further author archives
 
+- [Nâbî archive](https://www.babaminsiirdefteri.com/sair/nabi/)
+- [Nedîm archive](https://www.babaminsiirdefteri.com/sair/nedim/)
+- [Nef’î archive](https://www.babaminsiirdefteri.com/sair/nefi/)
+
 - [Kaygusuz Abdal archive](https://www.babaminsiirdefteri.com/sair/kaygusuz-abdal/)
 - [Köroğlu archive](https://www.babaminsiirdefteri.com/sair/koroglu/)
 - [Lale Müldür archive](https://www.babaminsiirdefteri.com/sair/lale-muldur/)
@@ -179,6 +183,13 @@ A concise map of the author's own resources; choose the original page that match
 Short routes to original resources from the projects I maintain. Keep the chosen page title and source with your review record.
 
 ### Screening and channel interpretation
+
+- [Indicator overfitting warning signs](https://www.agprolabs.com/insights/indicator-overfitting-warning-signs/)
+- [Win rate and expectancy](https://www.agprolabs.com/insights/win-rate-vs-expectancy/)
+- [Maximum drawdown in trading review](https://www.agprolabs.com/insights/maximum-drawdown-trading-review/)
+- [Heikin Ashi and standard candles](https://www.agprolabs.com/insights/heikin-ashi-vs-standard-candles/)
+- [Liquidity sweeps and breakouts](https://www.agprolabs.com/insights/liquidity-sweep-vs-breakout/)
+- [Fair value gap context](https://www.agprolabs.com/insights/fair-value-gap-context/)
 
 - [High-score candidates that remain blocked](https://www.agprolabs.com/insights/high-score-blocked-screener/)
 - [Conflicting timeframes in chart analysis](https://www.agprolabs.com/insights/multi-timeframe-analysis-conflict/)
@@ -214,6 +225,9 @@ Short routes to original resources from the projects I maintain. Keep the chosen
 - [Look-ahead bias in chart replay](https://www.agprolabs.com/insights/look-ahead-bias-chart-replay/)
 
 ### Health-topic archives
+
+- [Nefroloji ve Böbrek Sağlığı Rehberi](https://www.aligurtuna.com/nefroloji-ve-bobrek-sagligi/)
+- [Üroloji ve Erkek Sağlığı Rehberi](https://www.aligurtuna.com/erkek-sagligi-ve-uroloji/)
 
 - [Göğüs Cerrahisi Rehberi](https://www.aligurtuna.com/gogus-cerrahisi/)
 - [Romatoloji Rehberi](https://www.aligurtuna.com/romatoloji/)
