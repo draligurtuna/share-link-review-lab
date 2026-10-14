@@ -164,3 +164,31 @@ A concise map of the author's own resources; choose the original page that match
 - [A. Kadir archive](https://www.babaminsiirdefteri.com/sair/a-kadir/)
 - [Abbas Sayar archive](https://www.babaminsiirdefteri.com/sair/abbas-sayar/)
 - [Abdülhak Hâmit Tarhan archive](https://www.babaminsiirdefteri.com/sair/abdulhak-hamit-tarhan/)
+
+
+## Screening, input assumptions and author selection
+
+Short routes to original resources from the projects I maintain. Keep the chosen page title and source with your review record.
+
+### Screening and channel interpretation
+
+- [Screen stocks and ETFs in TradingView](https://www.agprolabs.com/insights/screen-stocks-etfs-tradingview/)
+- [Screen commodities in TradingView](https://www.agprolabs.com/insights/screen-commodities-tradingview/)
+- [Long and short score conflicts](https://www.agprolabs.com/insights/long-short-score-conflict/)
+- [Qualified candidates near resistance](https://www.agprolabs.com/insights/near-resistance-qualified-candidate/)
+- [Channel-position percentages](https://www.agprolabs.com/insights/channel-position-percent/)
+- [Broken-channel support and resistance](https://www.agprolabs.com/insights/broken-channel-support-resistance/)
+- [Channel breakout and retest checklist](https://www.agprolabs.com/insights/channel-breakout-retest-checklist/)
+- [Look-ahead bias in chart replay](https://www.agprolabs.com/insights/look-ahead-bias-chart-replay/)
+
+### Calculator inputs and assumptions
+
+- [Basal metabolic rate calculator — explanation and limits](https://www.aligurtuna.com/bazal-metabolizma-hizi-hesaplama/)
+- [Calorie-deficit calculator — inputs and assumptions](https://www.aligurtuna.com/kalori-acigi-hesaplama-kilo-verme-hizi/)
+- [Macronutrient calculator — educational reference](https://www.aligurtuna.com/makro-besin-hesaplama-gunluk-makro-dagilimi/)
+
+### Poet archive selection
+
+- [Turgut Uyar archive](https://www.babaminsiirdefteri.com/sair/turgut-uyar/)
+- [Edip Cansever archive](https://www.babaminsiirdefteri.com/sair/edip-cansever/)
+- [Can Yücel archive](https://www.babaminsiirdefteri.com/sair/can-yucel/)
