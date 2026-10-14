@@ -358,3 +358,95 @@ These are original resources from the projects I maintain. Choose a relevant pro
 - [Melih Cevdet Anday archive](https://www.babaminsiirdefteri.com/sair/melih-cevdet-anday/)
 - [Oktay Rifat archive](https://www.babaminsiirdefteri.com/sair/oktay-rifat/)
 - [Sezai Karakoç archive](https://www.babaminsiirdefteri.com/sair/sezai-karakoc/)
+
+
+## Additional original source routes
+
+Choose an original reference from the author's own projects. Use the page's scope and attribution when recording a public source URL. These are navigation references, not independent endorsements, tool integration or verified outcomes. Prepared with AI assistance.
+
+<details>
+<summary>AGProLabs guides and collections</summary>
+
+- [Crypto & Stock Market Analysis: A Disciplined Framework](https://www.agprolabs.com/insights/disciplined-crypto-stock-market-analysis/)
+- [Dynamic Price Channels in TradingView: A Practical Guide](https://www.agprolabs.com/insights/dynamic-price-channels-trend-structure/)
+- [Crypto Exchange Monitoring in TradingView](https://www.agprolabs.com/insights/monitor-multiple-crypto-exchanges-tradingview/)
+- [Rules-Based TradingView Analysis Workflows | Practical Guide](https://www.agprolabs.com/insights/rules-based-tradingview-analysis-workflows/)
+- [TradingView Indicator Alerts: Setup Guide](https://www.agprolabs.com/insights/set-up-tradingview-indicator-alerts/)
+- [Trading Suite: Daily Analysis Workflow](https://www.agprolabs.com/insights/trading-suite-daily-analysis-workflow/)
+- [TradingView Indicators & Screeners Compared](https://www.agprolabs.com/insights/tradingview-indicators-screeners-comparison/)
+- [How to Use TradingView for Technical Analysis](https://www.agprolabs.com/insights/tradingview-technical-analysis-workflow-guide/)
+- [About AGProLabs | TradingView Pine Script Publisher](https://www.agprolabs.com/about/)
+- [TradingView Pine Script Pricing](https://www.agprolabs.com/pricing/)
+- [Confirmation & Playbook TradingView Workflows](https://www.agprolabs.com/product-category/confirmation-playbook/)
+- [Defense & Management TradingView Workflows](https://www.agprolabs.com/product-category/defense-management/)
+- [Liquidity & Reclaim TradingView Workflows](https://www.agprolabs.com/product-category/liquidity-reclaim/)
+- [Platform Access TradingView Workflows](https://www.agprolabs.com/product-category/platform-access/)
+- [Risk & Execution TradingView Workflows](https://www.agprolabs.com/product-category/risk-execution/)
+- [SMC & Structure TradingView Workflows](https://www.agprolabs.com/product-category/smc-structure/)
+- [Trading Suite TradingView Workflows](https://www.agprolabs.com/product-category/trading-suite/)
+- [Volume & Trap TradingView Workflows](https://www.agprolabs.com/product-category/volume-trap/)
+- [TradingView Pine Script Workflows](https://www.agprolabs.com/workflows/)
+
+</details>
+
+<details>
+<summary>Awareness explanations and limits</summary>
+
+- [Aleksitimi Testi: Duyguları Tanıma ve İfade Etme Güçlüğü — açıklama ve sınırlar](https://www.aligurtuna.com/aleksitimi-testi-duygulari-tanima-ve-ifade-etme-guclugu/)
+- [Anksiyete Testi — açıklama ve sınırlar](https://www.aligurtuna.com/anksiyete-testi-kaygi-belirtileri-on-degerlendirme/)
+- [Ayrılık Kaygısı Testi: Bağlanma ve Ayrılma Zorluğu Değerlendirme — açıklama ve sınırlar](https://www.aligurtuna.com/ayrilik-kaygisi-testi-baglanma-ve-ayrilma-zorlugu-degerlendirme/)
+- [Bağlanma Stili Testi: İlişki Bağlanma Eğilimi Değerlendirme — açıklama ve sınırlar](https://www.aligurtuna.com/baglanma-stili-testi-iliski-baglanma-egilimi-degerlendirme/)
+- [Beden Algısı Testi: Beden Memnuniyeti ve Görünüm Baskısı — açıklama ve sınırlar](https://www.aligurtuna.com/beden-algisi-testi-beden-memnuniyeti-ve-gorunum-baskisi/)
+- [Dikkat Dağınıklığı Testi: Odaklanma Güçlüğü Farkındalık Değerlendirmesi — açıklama ve sınırlar](https://www.aligurtuna.com/dikkat-daginikligi-testi-odaklanma-guclugu-farkindalik-degerlendirmesi/)
+- [Duygu Düzenleme Güçlüğü Testi: Tepki ve Duygusal Denge Değerlendirme — açıklama ve sınırlar](https://www.aligurtuna.com/duygu-duzenleme-guclugu-testi-tepki-ve-duygusal-denge-degerlendirme/)
+- [Duygudurum Bozukluğu Testi: Duygusal Dalgalanma ve Çökkünlük — açıklama ve sınırlar](https://www.aligurtuna.com/duygudurum-bozuklugu-testi-duygusal-dalgalanma-ve-cokkunluk/)
+- [Duygusal Hassasiyet Testi: Duygusal Yük ve Duyarlılık Değerlendirme — açıklama ve sınırlar](https://www.aligurtuna.com/duygusal-hassasiyet-testi-duygusal-yuk-ve-duyarlilik-degerlendirme/)
+- [Duygusal Yeme Testi: Yeme Tutumu ve Açlık Dışı Yeme Değerlendirme — açıklama ve sınırlar](https://www.aligurtuna.com/duygusal-yeme-testi-yeme-tutumu-ve-aclik-disi-yeme-degerlendirme/)
+- [Duygusal Zeka Testi: Duyguları Anlama ve Yönetme Değerlendirme — açıklama ve sınırlar](https://www.aligurtuna.com/duygusal-zeka-testi-duygulari-anlama-ve-yonetme-degerlendirme/)
+- [İlişki Bağımlılığı Testi: Duygusal Bağımlılık ve Sınırlar — açıklama ve sınırlar](https://www.aligurtuna.com/iliski-bagimliligi-testi-duygusal-bagim-ve-sinirlar/)
+- [İmpostor Sendromu Testi: Başarıyı Sahiplenme Zorluğu — açıklama ve sınırlar](https://www.aligurtuna.com/impostor-sendromu-testi-basariyi-sahiplenme-zorlugu/)
+- [İş Stresi Testi: Çalışma Yükü ve Gerginlik Değerlendirme — açıklama ve sınırlar](https://www.aligurtuna.com/is-stresi-testi-calisma-yuku-ve-gerginlik-degerlendirme/)
+- [Karar Yorgunluğu Testi: Zihinsel Tükenme ve Karar Zorluğu Değerlendirme — açıklama ve sınırlar](https://www.aligurtuna.com/karar-yorgunlugu-testi-zihinsel-tukenme-ve-karar-zorlugu-degerlendirme/)
+- [Mükemmeliyetçilik Testi: Kontrol ve Hata Kaygısı Değerlendirme — açıklama ve sınırlar](https://www.aligurtuna.com/mukemmeliyetcilik-testi-kontrol-ve-hata-kaygisi-degerlendirme/)
+- [Öfke Kontrolü Testi: Öfke Yönetimi ve Tepki Düzeni Değerlendirme — açıklama ve sınırlar](https://www.aligurtuna.com/ofke-kontrolu-testi-ofke-yonetimi-ve-tepki-duzeni-degerlendirme/)
+- [Özgül Fobi Testi: Özel Korku ve Kaçınma Değerlendirme — açıklama ve sınırlar](https://www.aligurtuna.com/ozgul-fobi-testi-ozel-korku-ve-kacinma-degerlendirme/)
+- [Özgüven Testi: Kendine Güven Düzeyi Değerlendirme — açıklama ve sınırlar](https://www.aligurtuna.com/ozguven-testi-kendine-guven-duzeyi-degerlendirme/)
+- [Reddedilme Duyarlılığı Testi: İlişki ve Onay Hassasiyeti — açıklama ve sınırlar](https://www.aligurtuna.com/reddedilme-duyarliligi-testi-iliski-ve-onay-hassasiyeti/)
+- [Sağlık Anksiyetesi Testi: Hastalık Kaygısı Ön Değerlendirme — açıklama ve sınırlar](https://www.aligurtuna.com/saglik-anksiyetesi-testi-hastalik-kaygisi-on-degerlendirme/)
+- [Sınav Kaygısı Testi: Performans Baskısı ve Sınav Stresi Değerlendirme — açıklama ve sınırlar](https://www.aligurtuna.com/sinav-kaygisi-testi-performans-baskisi-ve-sinav-stresi-degerlendirme/)
+- [Sosyal Anksiyete Testi — açıklama ve sınırlar](https://www.aligurtuna.com/sosyal-anksiyete-testi-sosyal-kaygi-belirti-degerlendirme/)
+- [Sosyal Medya Bağımlılığı Testi: Ekran ve Kontrol Değerlendirme — açıklama ve sınırlar](https://www.aligurtuna.com/sosyal-medya-bagimliligi-testi-ekran-ve-kontrol-degerlendirme/)
+
+</details>
+
+<details>
+<summary>Poet and writer archives</summary>
+
+- [Adnan Özer arşivi](https://www.babaminsiirdefteri.com/sair/adnan-ozer/)
+- [Adnan Yücel arşivi](https://www.babaminsiirdefteri.com/sair/adnan-yucel/)
+- [Afşar Timuçin arşivi](https://www.babaminsiirdefteri.com/sair/afsar-timucin/)
+- [Ahmet Ada arşivi](https://www.babaminsiirdefteri.com/sair/ahmet-ada/)
+- [Ahmet Erhan arşivi](https://www.babaminsiirdefteri.com/sair/ahmet-erhan/)
+- [Ahmet Oktay arşivi](https://www.babaminsiirdefteri.com/sair/ahmet-oktay/)
+- [Ahmet Telli arşivi](https://www.babaminsiirdefteri.com/sair/ahmet-telli/)
+- [Ali Cengizkan arşivi](https://www.babaminsiirdefteri.com/sair/ali-cengizkan/)
+- [Ataol Behramoğlu arşivi](https://www.babaminsiirdefteri.com/sair/ataol-behramoglu/)
+- [Enis Batur arşivi](https://www.babaminsiirdefteri.com/sair/enis-batur/)
+- [Metin Altıok arşivi](https://www.babaminsiirdefteri.com/sair/metin-altiok/)
+- [Özdemir Asaf arşivi](https://www.babaminsiirdefteri.com/sair/ozdemir-asaf/)
+- [Adalet Ağaoğlu arşivi](https://www.babaminsiirdefteri.com/sair/adalet-agaoglu/)
+- [Agatha Christie arşivi](https://www.babaminsiirdefteri.com/sair/agatha-christie/)
+- [Ahmet Kutsi Tecer arşivi](https://www.babaminsiirdefteri.com/sair/ahmet-kutsi-tecer/)
+- [Ahmet Mithat Efendi arşivi](https://www.babaminsiirdefteri.com/sair/ahmet-mithat-efendi/)
+- [Ahmet Selçuk İlkan arşivi](https://www.babaminsiirdefteri.com/sair/ahmet-selcuk-ilkan/)
+- [Ahmet Ümit arşivi](https://www.babaminsiirdefteri.com/sair/ahmet-umit/)
+- [Akgün Akova arşivi](https://www.babaminsiirdefteri.com/sair/akgun-akova/)
+- [Albert Camus arşivi](https://www.babaminsiirdefteri.com/sair/albert-camus/)
+- [Aldous Huxley arşivi](https://www.babaminsiirdefteri.com/sair/aldous-huxley/)
+- [Aleksandr Puşkin arşivi](https://www.babaminsiirdefteri.com/sair/aleksandr-puskin/)
+- [Alexandre Dumas arşivi](https://www.babaminsiirdefteri.com/sair/alexandre-dumas/)
+- [Alfonsina Storni arşivi](https://www.babaminsiirdefteri.com/sair/alfonsina-storni/)
+- [Alfred de Musset arşivi](https://www.babaminsiirdefteri.com/sair/alfred-de-musset/)
+- [Ali Püsküllüoğlu arşivi](https://www.babaminsiirdefteri.com/sair/ali-puskulluoglu/)
+
+</details>
