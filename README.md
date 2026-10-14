@@ -161,6 +161,10 @@ A concise map of the author's own resources; choose the original page that match
 
 ### Further author archives
 
+- [Kaygusuz Abdal archive](https://www.babaminsiirdefteri.com/sair/kaygusuz-abdal/)
+- [Köroğlu archive](https://www.babaminsiirdefteri.com/sair/koroglu/)
+- [Lale Müldür archive](https://www.babaminsiirdefteri.com/sair/lale-muldur/)
+
 - [Bâkî archive](https://www.babaminsiirdefteri.com/sair/baki/)
 - [Haydar Ergülen archive](https://www.babaminsiirdefteri.com/sair/haydar-ergulen/)
 - [İlhan Berk archive](https://www.babaminsiirdefteri.com/sair/ilhan-berk/)
@@ -175,6 +179,13 @@ A concise map of the author's own resources; choose the original page that match
 Short routes to original resources from the projects I maintain. Keep the chosen page title and source with your review record.
 
 ### Screening and channel interpretation
+
+- [High-score candidates that remain blocked](https://www.agprolabs.com/insights/high-score-blocked-screener/)
+- [Conflicting timeframes in chart analysis](https://www.agprolabs.com/insights/multi-timeframe-analysis-conflict/)
+- [Pivot confirmation and channel timing](https://www.agprolabs.com/insights/pivot-confirmation-channel-timing/)
+- [Smart Swap HOLD and portfolio coverage](https://www.agprolabs.com/insights/read-smart-swap-hold-portfolio/)
+- [Relative volume and liquidity](https://www.agprolabs.com/insights/relative-volume-vs-liquidity/)
+- [Stale setups in screening](https://www.agprolabs.com/insights/stale-setup-screening/)
 
 - [Compare ETFs in a TradingView watchlist](https://www.agprolabs.com/insights/compare-etfs-tradingview-watchlist/)
 - [Breakout, continuation and recovery](https://www.agprolabs.com/insights/breakout-vs-continuation-vs-recovery/)
@@ -203,6 +214,9 @@ Short routes to original resources from the projects I maintain. Keep the chosen
 - [Look-ahead bias in chart replay](https://www.agprolabs.com/insights/look-ahead-bias-chart-replay/)
 
 ### Health-topic archives
+
+- [Göğüs Cerrahisi Rehberi](https://www.aligurtuna.com/gogus-cerrahisi/)
+- [Romatoloji Rehberi](https://www.aligurtuna.com/romatoloji/)
 
 - [Diyet ve beslenme konu arşivi](https://www.aligurtuna.com/diyet-beslenme/)
 - [Uyku sağlığı konu arşivi](https://www.aligurtuna.com/uyku-sagligi/)
