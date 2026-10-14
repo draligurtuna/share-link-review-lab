@@ -450,3 +450,41 @@ Choose an original reference from the author's own projects. Use the page's scop
 - [Ali Püsküllüoğlu arşivi](https://www.babaminsiirdefteri.com/sair/ali-puskulluoglu/)
 
 </details>
+
+
+<details>
+<summary>Additional topic and literary work references</summary>
+
+These are optional original-page examples for a source-review worksheet. Keep the page title, intended reading question and source identity together; a saved link does not validate its claims. Health resources are educational. Literary links are author-maintained archives and reviews, not reproduced poem or book text.
+
+### Health topic pages
+
+- [Göğüs Hastalıkları ve Solunum Sağlığı Rehberi](https://www.aligurtuna.com/gogus-hastaliklari-ve-solunum-sagligi/)
+- [Kulak Burun Boğaz Hastalıkları Rehberi](https://www.aligurtuna.com/kulak-burun-bogaz-kbb-sagligi/)
+- [Nöroloji ve Beyin Sağlığı Rehberi](https://www.aligurtuna.com/noroloji-ve-beyin-sagligi/)
+- [Alternatif Tıp ve GETAT Rehberi](https://www.aligurtuna.com/alternatif-tip-yontemleri/)
+- [Cilt Maskeleri: Doğal Ev Yapımı Yüz Maskesi Nasıl Yapılır?](https://www.aligurtuna.com/cilt-maskeleri/)
+- [Diyabetik Ara Öğün Rehberi: Kan Şekeri İçin Ne Yemeli?](https://www.aligurtuna.com/diyabetik-ara-ogun-kan-sekeri-rehberi/)
+- [Kadınlarda Saç Dökülmesi Neden Olur? Nasıl Tedavi Edilir?](https://www.aligurtuna.com/kadinlarda-sac-dokulmesi/)
+- [Sağlıklı Yaşam Sırları ve Önerileri Rehberi](https://www.aligurtuna.com/saglikli-yasamin-sirlari/)
+- [Sık İdrara Çıkma Neden Olur? Nasıl Tedavi Edilir?](https://www.aligurtuna.com/sik-idrara-cikma/)
+- [Uyku Kalitesi Testi: Uyku Düzeni ve Dinlenme Değerlendirme](https://www.aligurtuna.com/uyku-kalitesi-testi-uyku-duzeni-ve-dinlenme-degerlendirme/)
+- [Vitamin, Mineral ve Takviye Sağlığı](https://www.aligurtuna.com/vitaminler-mineraller-saglik-takviyeleri/)
+
+### Author archives and individual work reviews
+
+- [Orhan Veli Kanık](https://www.babaminsiirdefteri.com/sair/orhan-veli-kanik/)
+- [Abdülhak Şinasi Hisar – Çamlıca’daki Eniştemiz (Eser İncelemesi)](https://www.babaminsiirdefteri.com/abdulhak-sinasi-hisar-camlicadaki-enistemiz-eser-incelemesi/)
+- [Abdülhak Şinasi Hisar – Fahim Bey ve Biz (Eser İncelemesi)](https://www.babaminsiirdefteri.com/abdulhak-sinasi-hisar-fahim-bey-ve-biz-eser-incelemesi/)
+- [Behçet Necatigil](https://www.babaminsiirdefteri.com/sair/behcet-necatigil/)
+- [Fuzûlî](https://www.babaminsiirdefteri.com/sair/fuzuli/)
+- [Karacaoğlan](https://www.babaminsiirdefteri.com/sair/karacaoglan/)
+- [Abbas Sayar – Çelo (Eser İncelemesi)](https://www.babaminsiirdefteri.com/abbas-sayar-celo-eser-incelemesi/)
+- [Abbas Sayar – Yılkı Atı (Eser İncelemesi)](https://www.babaminsiirdefteri.com/abbas-sayar-yilki-ati-eser-incelemesi/)
+- [Adalet Ağaoğlu – Bir Düğün Gecesi (Eser İncelemesi)](https://www.babaminsiirdefteri.com/adalet-agaoglu-bir-dugun-gecesi-eser-incelemesi/)
+- [Adalet Ağaoğlu – Fikrimin İnce Gülü (Eser İncelemesi)](https://www.babaminsiirdefteri.com/adalet-agaoglu-fikrimin-ince-gulu-eser-incelemesi/)
+- [Adalet Ağaoğlu – Hayır… (Eser İncelemesi)](https://www.babaminsiirdefteri.com/adalet-agaoglu-hayir-incelemesi/)
+- [Adalet Ağaoğlu – Ölmeye Yatmak (Eser İncelemesi)](https://www.babaminsiirdefteri.com/adalet-agaoglu-olmeye-yatmak-eser-incelemesi/)
+- [Şiir Türleri](https://www.babaminsiirdefteri.com/sair/siir-turleri/)
+
+</details>
