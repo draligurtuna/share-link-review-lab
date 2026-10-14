@@ -488,3 +488,41 @@ These are optional original-page examples for a source-review worksheet. Keep th
 - [Şiir Türleri](https://www.babaminsiirdefteri.com/sair/siir-turleri/)
 
 </details>
+
+
+
+<details>
+<summary>More resources from projects I maintain</summary>
+
+These optional links point to my own projects. Health pages provide general education; literary archives link to author and book information without reproducing their texts.
+
+### TradingView collections and learning
+
+- [Collections](https://www.agprolabs.com/collections/)
+- [TradingView & Market Analysis Insights](https://www.agprolabs.com/insights/)
+
+### Health topic guides
+
+- [Endokrinoloji ve Diyabet Sağlığı Rehberi](https://www.aligurtuna.com/endokrinoloji-ve-diyabet/)
+- [Enfeksiyon Hastalıkları Rehberi](https://www.aligurtuna.com/enfeksiyon-hastaliklari/)
+- [Gastroenteroloji ve Sindirim Sağlığı](https://www.aligurtuna.com/gastroenteroloji/)
+- [Halk Sağlığı ve Koruyucu Hekimlik Rehberi](https://www.aligurtuna.com/halk-sagligi-ve-koruyucu-hekimlik/)
+- [Kalp ve Damar Sağlığı Rehberi](https://www.aligurtuna.com/kalp-ve-damar-sagligi/)
+- [Laboratuvar Testleri ve Sağlık Tahlilleri](https://www.aligurtuna.com/laboratuvar-testleri-ve-tahlil/)
+- [Spor Hekimliği ve Egzersiz Sağlığı Rehberi](https://www.aligurtuna.com/spor-hekimligi-ve-egzersiz-sagligi/)
+
+### Author and literary archives
+
+- [Rüzgârlı Tepe: Şiir Kitabım](https://www.babaminsiirdefteri.com/ruzgarli-tepe-siir-kitabim-saban-gurtuna/)
+- [Şaban Gürtuna Kimdir? Emekli Öğretmen ve Şair](https://www.babaminsiirdefteri.com/saban-gurtuna/)
+- [Attila İlhan](https://www.babaminsiirdefteri.com/sair/attila-ilhan/)
+- [Cahit Sıtkı Tarancı](https://www.babaminsiirdefteri.com/sair/cahit-sitki-taranci/)
+- [Cemal Süreya](https://www.babaminsiirdefteri.com/sair/cemal-sureya/)
+- [Mehmet Akif Ersoy](https://www.babaminsiirdefteri.com/sair/mehmet-akif-ersoy/)
+- [Murathan Mungan](https://www.babaminsiirdefteri.com/sair/murathan-mungan/)
+- [Nâzım Hikmet Ran](https://www.babaminsiirdefteri.com/sair/nazim-hikmet/)
+- [Necip Fazıl Kısakürek](https://www.babaminsiirdefteri.com/sair/necip-fazil-kisakurek/)
+- [Ümit Yaşar Oğuzcan](https://www.babaminsiirdefteri.com/sair/umit-yasar-oguzcan/)
+- [Yunus Emre](https://www.babaminsiirdefteri.com/sair/yunus-emre/)
+
+</details>
