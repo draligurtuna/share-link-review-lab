@@ -161,6 +161,14 @@ A concise map of the author's own resources; choose the original page that match
 
 ### Further author archives
 
+- [Birhan Keskin archive](https://www.babaminsiirdefteri.com/sair/birhan-keskin/)
+- [Gonca Özmen archive](https://www.babaminsiirdefteri.com/sair/gonca-ozmen/)
+- [Hilmi Yavuz archive](https://www.babaminsiirdefteri.com/sair/hilmi-yavuz/)
+- [Neyzen Tevfik archive](https://www.babaminsiirdefteri.com/sair/neyzen-tevfik/)
+- [Nilgün Marmara archive](https://www.babaminsiirdefteri.com/sair/nilgun-marmara/)
+- [Pir Sultan Abdal archive](https://www.babaminsiirdefteri.com/sair/pir-sultan-abdal/)
+- [Şeyh Galip archive](https://www.babaminsiirdefteri.com/sair/seyh-galip/)
+
 - [Nâbî archive](https://www.babaminsiirdefteri.com/sair/nabi/)
 - [Nedîm archive](https://www.babaminsiirdefteri.com/sair/nedim/)
 - [Nef’î archive](https://www.babaminsiirdefteri.com/sair/nefi/)
@@ -183,6 +191,23 @@ A concise map of the author's own resources; choose the original page that match
 Short routes to original resources from the projects I maintain. Keep the chosen page title and source with your review record.
 
 ### Screening and channel interpretation
+
+- [TradingView Screener vs Chart Indicator](https://www.agprolabs.com/insights/tradingview-screener-vs-chart-indicator/)
+- [Technical Analysis Tool Buying Checklist](https://www.agprolabs.com/insights/technical-analysis-tool-buying-checklist/)
+- [Choosing a TradingView Indicator for Swing Trading](https://www.agprolabs.com/insights/tradingview-indicator-for-swing-trading/)
+- [TradingView Tools for Traders with Limited Time](https://www.agprolabs.com/insights/tradingview-tools-for-busy-traders/)
+- [TradingView Indicator Costs: What to Check](https://www.agprolabs.com/insights/tradingview-indicator-setup-costs/)
+- [Build a TradingView Analysis Workspace](https://www.agprolabs.com/insights/build-tradingview-analysis-workspace/)
+- [Build a Crypto Watchlist for Meaningful Screening](https://www.agprolabs.com/insights/build-crypto-watchlist-tradingview/)
+- [Build a Stock Sector Watchlist in TradingView](https://www.agprolabs.com/insights/stock-sector-watchlist-tradingview/)
+- [Crypto Spot vs Perpetual Screening](https://www.agprolabs.com/insights/crypto-spot-vs-perpetual-screening/)
+- [A Weekend Crypto Watchlist Review](https://www.agprolabs.com/insights/weekend-crypto-watchlist-review/)
+- [Turnover Thresholds and TradingView Volume Units](https://www.agprolabs.com/insights/turnover-thresholds-volume-units/)
+- [VWAP vs Moving Average for Chart Context](https://www.agprolabs.com/insights/vwap-vs-moving-average/)
+- [Risk Reward After Fees and Slippage](https://www.agprolabs.com/insights/risk-reward-after-fees/)
+- [Portfolio Rotation and Relative Strength](https://www.agprolabs.com/insights/portfolio-rotation-relative-strength/)
+- [Correlated Trades and Portfolio Risk](https://www.agprolabs.com/insights/correlated-trades-portfolio-risk/)
+- [A Trading Journal Template for Screened Setups](https://www.agprolabs.com/insights/trading-journal-screening-template/)
 
 - [Indicator overfitting warning signs](https://www.agprolabs.com/insights/indicator-overfitting-warning-signs/)
 - [Win rate and expectancy](https://www.agprolabs.com/insights/win-rate-vs-expectancy/)
@@ -225,6 +250,10 @@ Short routes to original resources from the projects I maintain. Keep the chosen
 - [Look-ahead bias in chart replay](https://www.agprolabs.com/insights/look-ahead-bias-chart-replay/)
 
 ### Health-topic archives
+
+- [Age calculator: years, months and days](https://www.aligurtuna.com/yas-hesaplama-programi-gun-ay-ve-yil-olarak/)
+- [Daily water needs calculator](https://www.aligurtuna.com/gunluk-su-ihtiyaci-hesaplama-programi/)
+- [Waist-to-height ratio calculator](https://www.aligurtuna.com/bel-boy-orani-hesaplama-abdominal-yaglanma-ve-metabolik-risk/)
 
 - [Nefroloji ve Böbrek Sağlığı Rehberi](https://www.aligurtuna.com/nefroloji-ve-bobrek-sagligi/)
 - [Üroloji ve Erkek Sağlığı Rehberi](https://www.aligurtuna.com/erkek-sagligi-ve-uroloji/)
