@@ -172,6 +172,13 @@ Short routes to original resources from the projects I maintain. Keep the chosen
 
 ### Screening and channel interpretation
 
+- [Read dynamic channels as support and resistance](https://www.agprolabs.com/insights/read-dynamic-channels-support-resistance/)
+- [Dynamic channels and manual trendlines](https://www.agprolabs.com/insights/dynamic-channels-vs-manual-trendlines/)
+- [Trend and range analysis workflows](https://www.agprolabs.com/insights/trend-vs-range-trading-workflow/)
+- [Trading Suite — connected chart-analysis workspace](https://www.agprolabs.com/product/trading-suite-agpro-series/)
+- [Dynamic Channels Elite — channel-structure product guide](https://www.agprolabs.com/product/dynamic-channels-elite/)
+- [Trade Outcome Simulator — conditional analytical models](https://www.agprolabs.com/product/trade-outcome-simulator/)
+- [AGPro Complete Platform — product collection](https://www.agprolabs.com/product/agpro-complete-platform/)
 - [Screen stocks and ETFs in TradingView](https://www.agprolabs.com/insights/screen-stocks-etfs-tradingview/)
 - [Screen commodities in TradingView](https://www.agprolabs.com/insights/screen-commodities-tradingview/)
 - [Long and short score conflicts](https://www.agprolabs.com/insights/long-short-score-conflict/)
@@ -183,6 +190,7 @@ Short routes to original resources from the projects I maintain. Keep the chosen
 
 ### Calculator inputs and assumptions
 
+- [Göz sağlığı — konu arşivi](https://www.aligurtuna.com/goz-hastaliklari-ve-sagligi/)
 - [Basal metabolic rate calculator — explanation and limits](https://www.aligurtuna.com/bazal-metabolizma-hizi-hesaplama/)
 - [Calorie-deficit calculator — inputs and assumptions](https://www.aligurtuna.com/kalori-acigi-hesaplama-kilo-verme-hizi/)
 - [Macronutrient calculator — educational reference](https://www.aligurtuna.com/makro-besin-hesaplama-gunluk-makro-dagilimi/)
