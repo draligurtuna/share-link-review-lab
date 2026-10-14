@@ -172,6 +172,10 @@ Short routes to original resources from the projects I maintain. Keep the chosen
 
 ### Screening and channel interpretation
 
+- [Indicator disagreement checklist](https://www.agprolabs.com/insights/indicator-disagreement-checklist/)
+- [Confirmed candles and repainting](https://www.agprolabs.com/insights/confirmed-candles-repainting-tradingview/)
+- [Forward testing a TradingView indicator](https://www.agprolabs.com/insights/forward-test-tradingview-indicator/)
+- [Weekly trading-process review](https://www.agprolabs.com/insights/weekly-trading-process-review/)
 - [Read dynamic channels as support and resistance](https://www.agprolabs.com/insights/read-dynamic-channels-support-resistance/)
 - [Dynamic channels and manual trendlines](https://www.agprolabs.com/insights/dynamic-channels-vs-manual-trendlines/)
 - [Trend and range analysis workflows](https://www.agprolabs.com/insights/trend-vs-range-trading-workflow/)
@@ -188,6 +192,15 @@ Short routes to original resources from the projects I maintain. Keep the chosen
 - [Channel breakout and retest checklist](https://www.agprolabs.com/insights/channel-breakout-retest-checklist/)
 - [Look-ahead bias in chart replay](https://www.agprolabs.com/insights/look-ahead-bias-chart-replay/)
 
+### Health-topic archives
+
+- [Ağız ve Diş Sağlığı Rehberi](https://www.aligurtuna.com/agiz-dis-sagligi/)
+- [Alerji ve İmmünoloji Rehberi](https://www.aligurtuna.com/alerji-ve-immunoloji/)
+- [Çocuk Cerrahisi Rehberi](https://www.aligurtuna.com/cocuk-cerrahisi/)
+- [Çocuk Sağlığı ve Hastalıkları Rehberi](https://www.aligurtuna.com/cocuk-sagligi-ve-hastaliklari/)
+- [Dermatoloji, Cilt Bakımı ve Estetik Rehberi](https://www.aligurtuna.com/dermatoloji/)
+- [Fizik Tedavi ve Rehabilitasyon Rehberi](https://www.aligurtuna.com/fizik-tedavi-ve-rehabilitasyon/)
+
 ### Calculator inputs and assumptions
 
 - [Göz sağlığı — konu arşivi](https://www.aligurtuna.com/goz-hastaliklari-ve-sagligi/)
@@ -197,6 +210,7 @@ Short routes to original resources from the projects I maintain. Keep the chosen
 
 ### Poet archive selection
 
+- [Şaban Gürtuna](https://www.babaminsiirdefteri.com/sair/saban-gurtuna/)
 - [Turgut Uyar archive](https://www.babaminsiirdefteri.com/sair/turgut-uyar/)
 - [Edip Cansever archive](https://www.babaminsiirdefteri.com/sair/edip-cansever/)
 - [Can Yücel archive](https://www.babaminsiirdefteri.com/sair/can-yucel/)
