@@ -284,3 +284,77 @@ Short routes to original resources from the projects I maintain. Keep the chosen
 - [Turgut Uyar archive](https://www.babaminsiirdefteri.com/sair/turgut-uyar/)
 - [Edip Cansever archive](https://www.babaminsiirdefteri.com/sair/edip-cansever/)
 - [Can Yücel archive](https://www.babaminsiirdefteri.com/sair/can-yucel/)
+
+
+## Product documentation and archive navigation
+
+These are original resources from the projects I maintain. Choose a relevant product or archive for its current scope and attribution; these links do not establish that the lab validates a trading outcome, health assessment or literary interpretation.
+
+### AGProLabs product documentation
+
+- [Auto Fib Structure Planner [AGPro Series]](https://www.agprolabs.com/product/auto-fib-structure-planner/)
+- [Liquidity Command Center Elite [AGPro Series]](https://www.agprolabs.com/product/liquidity-command-center-elite/)
+- [Risk Reward Execution Matrix [AGPro Series]](https://www.agprolabs.com/product/risk-reward-execution-matrix/)
+- [Volume Flow Reversal Elite [AGPro Series]](https://www.agprolabs.com/product/volume-flow-reversal-elite/)
+- [Trade Management Planner Elite [AGPro Series]](https://www.agprolabs.com/product/trade-management-planner-elite/)
+- [Adaptive Market Playbook [AGPro Series]](https://www.agprolabs.com/product/adaptive-market-playbook/)
+- [Breaker Block Transition Planner [AGPro Series]](https://www.agprolabs.com/product/breaker-block-transition-planner/)
+- [CME Gap Magnet [AGPro Series]](https://www.agprolabs.com/product/cme-gap-magnet/)
+- [Confluence Alert Engine [AGPro Series]](https://www.agprolabs.com/product/confluence-alert-engine/)
+- [Crypto Rotation Opportunity Matrix [AGPro Series]](https://www.agprolabs.com/product/crypto-rotation-opportunity-matrix/)
+- [Divergence Reversal Decision Matrix [AGPro Series]](https://www.agprolabs.com/product/divergence-reversal-decision-matrix/)
+- [Drawdown Defense Engine [AGPro Series]](https://www.agprolabs.com/product/drawdown-defense-engine/)
+- [Edge Confidence Gauge [AGPro Series]](https://www.agprolabs.com/product/edge-confidence-gauge/)
+- [Edge Consistency Gauge [AGPro Series]](https://www.agprolabs.com/product/edge-consistency-gauge/)
+- [Expected Move Cone [AGPro Series]](https://www.agprolabs.com/product/expected-move-cone/)
+- [Harmonic Completion Engine [AGPro Series]](https://www.agprolabs.com/product/harmonic-completion-engine/)
+- [Institutional Reaction Planner Elite [AGPro Series]](https://www.agprolabs.com/product/institutional-reaction-planner-elite/)
+- [Market Confirmation Engine [AGPro Series]](https://www.agprolabs.com/product/market-confirmation-engine/)
+- [Market Tradability Gate [AGPro Series]](https://www.agprolabs.com/product/market-tradability-gate/)
+- [Order Block Reclaim Matrix [AGPro Series]](https://www.agprolabs.com/product/order-block-reclaim-matrix/)
+- [Position Scaling Engine [AGPro Series]](https://www.agprolabs.com/product/position-scaling-engine/)
+- [R-Expectancy Surface [AGPro Series]](https://www.agprolabs.com/product/r-expectancy-surface/)
+- [Rejection Block Execution Planner [AGPro Series]](https://www.agprolabs.com/product/rejection-block-execution-planner/)
+- [Risk of Ruin Engine [AGPro Series]](https://www.agprolabs.com/product/risk-of-ruin-engine/)
+- [Seasonal Edge Clock [AGPro Series]](https://www.agprolabs.com/product/seasonal-edge-clock/)
+- [Structure Failure Recovery Matrix [AGPro Series]](https://www.agprolabs.com/product/structure-failure-recovery-matrix/)
+- [Supply Demand Flip Matrix [AGPro Series]](https://www.agprolabs.com/product/supply-demand-flip-matrix/)
+- [Support Resistance Continuation Matrix [AGPro Series]](https://www.agprolabs.com/product/support-resistance-continuation-matrix/)
+- [Sweep Reclaim Decision Matrix [AGPro Series]](https://www.agprolabs.com/product/sweep-reclaim-decision-matrix/)
+- [Target Ladder Confluence Planner [AGPro Series]](https://www.agprolabs.com/product/target-ladder-confluence-planner/)
+- [Trade Conviction Engine [AGPro Series]](https://www.agprolabs.com/product/trade-conviction-engine/)
+- [Trade Edge Profiler [AGPro Series]](https://www.agprolabs.com/product/trade-edge-profiler/)
+- [Trade Excursion Engine [AGPro Series]](https://www.agprolabs.com/product/trade-excursion-engine/)
+- [Trendline Retest Execution Matrix [AGPro Series]](https://www.agprolabs.com/product/trendline-retest-execution-matrix/)
+- [Volume Climax Trap Matrix [AGPro Series]](https://www.agprolabs.com/product/volume-climax-trap-matrix/)
+- [VWAP Acceptance Execution Matrix [AGPro Series]](https://www.agprolabs.com/product/vwap-acceptance-execution-matrix/)
+
+### Health topic and tool navigation
+
+- [Acil Tıp Rehberi](https://www.aligurtuna.com/acil-tip/)
+- [Anestezi, Ağrı ve Yoğun Bakım Rehberi](https://www.aligurtuna.com/anestezi-agri-ve-yogun-bakim/)
+- [Genel Cerrahi ve Ameliyat Rehberi](https://www.aligurtuna.com/genel-cerrahi/)
+- [Genel Sağlık ve Yaşam Rehberi](https://www.aligurtuna.com/populer-saglik/)
+- [Genetik ve Nadir Hastalıklar Rehberi](https://www.aligurtuna.com/genetik-ve-nadir-hastaliklar/)
+- [Geriatri ve Yaşlı Sağlığı Rehberi](https://www.aligurtuna.com/geriatri-ve-yasli-sagligi/)
+- [Hematoloji ve Kan Hastalıkları Rehberi](https://www.aligurtuna.com/hematoloji/)
+- [Kadın Sağlığı, Hamilelik ve Doğum Rehberi](https://www.aligurtuna.com/kadin-sagligi-hamilelik-ve-dogum/)
+- [Onkoloji ve Kanser Rehberi](https://www.aligurtuna.com/onkoloji/)
+- [Ortopedi ve Travmatoloji Rehberi](https://www.aligurtuna.com/ortopedi/)
+- [Plastik, Rekonstrüktif ve Estetik Cerrahi Rehberi](https://www.aligurtuna.com/plastik-estetik-cerrahi/)
+- [Ruh Sağlığı ve Psikoloji Rehberi](https://www.aligurtuna.com/ruh-sagligi-ve-psikoloji/)
+- [Ideal-weight calculator — assumptions and limits](https://www.aligurtuna.com/ideal-kilo-hesaplama-programi/)
+- [Protein-needs calculator — inputs and explanation](https://www.aligurtuna.com/protein-ihtiyaci-hesaplama-gunluk-protein-plani/)
+- [Lean-body-mass calculator — educational explanation](https://www.aligurtuna.com/yagsiz-vucut-kutlesi-hesaplama-vucut-kompozisyonu/)
+
+### Named author reading routes
+
+- [Ahmet Muhip Dıranas archive](https://www.babaminsiirdefteri.com/sair/ahmet-muhip-diranas/)
+- [Cahit Külebi archive](https://www.babaminsiirdefteri.com/sair/cahit-kulebi/)
+- [Dadaloğlu archive](https://www.babaminsiirdefteri.com/sair/dadaloglu/)
+- [Ece Ayhan archive](https://www.babaminsiirdefteri.com/sair/ece-ayhan/)
+- [Fazıl Hüsnü Dağlarca archive](https://www.babaminsiirdefteri.com/sair/fazil-husnu-daglarca/)
+- [Gülten Akın archive](https://www.babaminsiirdefteri.com/sair/gulten-akin/)
+- [Melih Cevdet Anday archive](https://www.babaminsiirdefteri.com/sair/melih-cevdet-anday/)
+- [Oktay Rifat archive](https://www.babaminsiirdefteri.com/sair/oktay-rifat/)
+- [Sezai Karakoç archive](https://www.babaminsiirdefteri.com/sair/sezai-karakoc/)
