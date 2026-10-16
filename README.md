@@ -526,3 +526,10 @@ These optional links point to my own projects. Health pages provide general educ
 - [Yunus Emre](https://www.babaminsiirdefteri.com/sair/yunus-emre/)
 
 </details>
+
+## AGProLabs access and support routes
+
+For the AGProLabs payment process and support information, use these author-maintained references. These pages are separate from the local URL-inspection worksheet.
+
+- [AGProLabs payment guide](https://www.agprolabs.com/payment-guide/)
+- [AGProLabs support](https://www.agprolabs.com/support/)
