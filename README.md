@@ -533,3 +533,17 @@ For the AGProLabs payment process and support information, use these author-main
 
 - [AGProLabs payment guide](https://www.agprolabs.com/payment-guide/)
 - [AGProLabs support](https://www.agprolabs.com/support/)
+
+
+<details>
+<summary>Further author-archive starting points</summary>
+
+Choose an attributed author archive before recording a work title and your own reading question. These are resources from the family literature project I maintain; no poem or book text is reproduced here.
+
+- [A. Vahap Akbaş](https://www.babaminsiirdefteri.com/sair/a-vahap-akbas/)
+- [Abdülbaki Gölpınarlı](https://www.babaminsiirdefteri.com/sair/abdulbaki-golpinarli/)
+- [Abdülhak Şinasi Hisar](https://www.babaminsiirdefteri.com/sair/abdulhak-sinasi-hisar/)
+- [Abdülkadir Bulut](https://www.babaminsiirdefteri.com/sair/abdulkadir-bulut/)
+- [Abdullah Öztemiz Hacıtahiroğlu](https://www.babaminsiirdefteri.com/sair/abdullah-oztemiz-hacitahiroglu/)
+
+</details>
